@@ -1,7 +1,16 @@
-theme: jekyll-theme-slate
 title: John Brian Slater
 description: Software Engineer, Technical Architect, Co-Founder
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "jekyll/minima@1e8a445"
+theme: minima
+minima:
+  skin: dark
+  author:
+    name: John Brian Slater
+    email: "slater@fivestar.studio
+  hide_site_feed_link: true
+  show_downloads: true
+
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
