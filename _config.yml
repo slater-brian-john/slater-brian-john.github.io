@@ -1,13 +1,13 @@
 title: John Brian Slater
 description: Software Engineer, Technical Architect, Co-Founder
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 minima:
   skin: dark
-  author:
-    name: John Brian Slater
-    email: "slater@fivestar.studio
-  hide_site_feed_link: true
-  show_downloads: true
+author:
+  name: John Brian Slater
+  email: "slater@fivestar.studio
+hide_site_feed_link: true
+show_downloads: true
 
 
 plugins:
