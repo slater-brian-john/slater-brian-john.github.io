@@ -1,4 +1,7 @@
 ## Experience
+
+⸻
+
 Co-Founder | Clariti
 
 Jul 2024 – Present | Remote
