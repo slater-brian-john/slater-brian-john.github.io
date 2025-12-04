@@ -24,9 +24,8 @@
 ##### TLDR; Multiplier for Nursing Home passion projects
 
 * Building a “factory” model for rapidly delivering scalable healthcare SaaS products.
-* Designed reusable microservice templates leveraging Node.js, Docker, Helm, and Kubernetes.
-* Developed shared infrastructure for auth, audit logs, rate limiting, and monitoring.
-* Provided architectural leadership to early-stage founders, emphasizing cost efficiency, reliability, and secure data flows.
+* Designed reusable monolith leveraging Python (django), Docker, ECS Fargate (AWS), Postgres and Clickhouse.
+* Built resusable frontend with technical partner.
 
 ⸻
 
@@ -36,11 +35,9 @@
 
 ##### TLDR; Embedded systems and design passion project
 
-* Architecting and building a cloud-native platform for managing distributed 3D printing systems, combining backend services with IoT and embedded device orchestration.
+* Architecting and building a hybrid cloud-edge platform for managing distributed 3D printing systems, combining backend services with IoT and embedded device orchestration.
 * Implemented containerized deployments of Klipper, Moonraker, and Fluidd to Raspberry Pi devices using Docker and AWS IoT Greengrass V2, enabling consistent provisioning and management of a heterogeneous device fleet.
-* Developed edge-to-cloud communication models for firmware modules, closed-loop motor controllers, and thermal/safety sensor data.
 * Prototyping a local sensor compute system using NVIDIA Jetson Nano to run on-device AI models for anomaly detection, print failure prediction, and real-time sensor fusion.
-* Created dashboards for device status, job throughput, error rates, and utilization—mirroring the operational requirements of maintaining thousands of field devices.
 
 
 ⸻
@@ -51,7 +48,7 @@
 
 ##### TLDR; Split the baby
 
-* Split the 1 product into 3, so that things could be scaled and sold separately (I pitched this one, and it work)
+* Split the 1 product into 3, so that things could be scaled and sold separately (I pitched this one, and it worked)
 
 ⸻
 
