@@ -1,6 +1,5 @@
 title: John Brian Slater
 description: Software Engineer, Technical Architect, Co-Founder
-remote_theme: "jekyll/minima@1e8a445"
 theme: minima
 minima:
   skin: dark
