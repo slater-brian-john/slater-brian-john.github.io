@@ -54,7 +54,7 @@
 
 ⸻
 
-### VP of Systems Architecture | PointClickCare (Nursing Home Health Tech)
+### VP of Systems Architecture | Patient Pattern
 
 #### Oct 2021 – Mar 2023 | Columbus, IN
 
@@ -65,7 +65,7 @@
 
 ⸻
 
-### Director of Engineering | Patient Pattern (Nursing Home Health Tech)
+### Director of Engineering | Patient Pattern
 
 #### Feb 2019 – Oct 2021 | Charlevoix, MI
 
@@ -75,7 +75,7 @@
 
 ⸻
 
-### Council Member | City of Charlevoix (Nursing Home Health Tech)
+### Council Member | City of Charlevoix
 
 #### Feb 2020 – Oct 2021 | Charlevoix, MI
 
@@ -85,7 +85,7 @@
 
 ⸻
 
-### Engineer II | SpotHero (Parking & Transportation)
+### Engineer II | SpotHero
 
 #### Feb 2018 – Feb 2019 | Chicago, IL
 
@@ -101,9 +101,9 @@
 
 ⸻
 
-### Software Engineer | Clockwork Solutions | (Defense, Operations Research, Supply Chain & Logistics)
+### Software Engineer | Clockwork Solutions
 
-#### Oct 2016 – Feb 2018 | Austin, TX (Operations Research)
+#### Oct 2016 – Feb 2018 | Austin, TX
 
 ##### TLDR; Java & Spring Boot & Apach Nifi & Docker & Rancher v1 & AWS
 
@@ -112,9 +112,9 @@
 
 ⸻
 
-### Full Stack Software Developer I | General Motors | (Operations Research, Supply Chain & Logistics)
+### Full Stack Software Developer I | General Motors
 
-#### Sep 2013 – Oct 2016 | Austin, TX (Operations Research)
+#### Sep 2013 – Oct 2016 | Austin, TX
 
 ##### TLDR;  Java & Spring MVC & ExtJS & Eclipse w/ D3
 
@@ -123,7 +123,7 @@
 	•   Met a great mentor who made me realize I didn't need to go back to school to do what I was already doing
 ⸻
 
-### SDev <= Manual QA | General Motors | (Operations Research, Supply Chain, Logistics)
+### SDev <= Manual QA | General Motors
 
 #### Sep 2013 – Feb 2014 | Austin, TX
 
