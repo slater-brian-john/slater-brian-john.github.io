@@ -1,3 +1,6 @@
+## Summary
+Software engineer and engineering leader with 12+ years of experience designing monolithic and/or distributed systems, device/fleet-style monitoring pipelines, internal tools, and SaaS products. I’ve helped startups scale from 0→1 and enterprises optimize from 1→100. Strong bias toward ownership, rapid execution, and clarity in ambiguous domains.
+
 ## Experience
 
 ⸻
