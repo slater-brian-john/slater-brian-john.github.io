@@ -6,7 +6,7 @@
 
 #### Jul 2024 – Present | Remote
 
-##### TLDR;
+##### TLDR; Insurance data aggregation passion project
 
 * Architecting and building a cloud-native platform that ingests, normalizes, and analyzes MA payer contracts for skilled nursing facilities.
 * Designed distributed data pipelines using TypeScript, Python, PostgreSQL, Redis, S3, and Celery, ensuring accuracy and resilience.
@@ -21,7 +21,7 @@
 
 #### Jul 2024 – Present | Remote
 
-##### TLDR;
+##### TLDR; Multiplier for Nursing Home passion projects
 
 * Building a “factory” model for rapidly delivering scalable healthcare SaaS products.
 * Designed reusable microservice templates leveraging Node.js, Docker, Helm, and Kubernetes.
@@ -34,7 +34,7 @@
 
 #### Jul 2024 – Present | Columbus, IN
 
-##### TLDR;
+##### TLDR; Embedded systems and design passion project
 
 * Architecting and building a cloud-native platform for managing distributed 3D printing systems, combining backend services with IoT and embedded device orchestration.
 * Implemented containerized deployments of Klipper, Moonraker, and Fluidd to Raspberry Pi devices using Docker and AWS IoT Greengrass V2, enabling consistent provisioning and management of a heterogeneous device fleet.
