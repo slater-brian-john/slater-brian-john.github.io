@@ -1,5 +1,6 @@
 repository: slater-brian-john/slater-brian-john.github.io
 title: John Brian Slater
+tagline: John Brian Slater
 description: Software Engineer, Technical Architect, Co-Founder
 remote_theme: pages-themes/midnight@v0.2.0
 hide_site_feed_link: true
