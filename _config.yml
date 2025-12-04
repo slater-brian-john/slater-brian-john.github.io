@@ -1,0 +1,6 @@
+theme: jekyll-theme-slate
+title: Brian Slater
+description: Software Engineer, Technical Architect, Co-Founder
+
+plugins:
+  - jekyll-feed

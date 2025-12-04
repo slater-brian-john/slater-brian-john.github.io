@@ -109,7 +109,26 @@ Sep 2013 – Feb 2014 | Austin, TX
 	•	Built first automated functional testing framework in Selenium for Global Purchasing and Supply Chain
 
 ⸻
-## Volunteering 
+
+## Education
+
+Indiana University | Kelley School of Business | Bloomington, Indiana
+
+	•	B.S. Public Policy Analysis
+
+⸻
+
+Indiana University | College of Arts & Sciences | Bloomington, Indiana
+
+	•	B.S. Mathematics (Theoretical PhD Track)
+
+	•	B.A. Economics (Econometrics PhD Track)
+
+	•	First Year PhD Econometrics completed
+
+⸻
+
+## Volunteering
 
 Board Member | Top of Michigan Trails Council
 
