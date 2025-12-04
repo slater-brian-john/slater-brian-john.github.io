@@ -3,7 +3,7 @@ title: John Brian Slater
 tagline: Software Engineer, Technical Architect, Co-Founder
 remote_theme: pages-themes/midnight@v0.2.0
 hide_site_feed_link: true
-show_github_link: false
+show_github_link: true
 show_downloads: false
 show_site_owner: false
 show_theme_owner: false
