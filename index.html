@@ -49,7 +49,7 @@
     --spacing-xl: 2rem;
 
     /* Layout */
-    --content-max-width: 900px;
+    --content-max-width: 1100px;
     --border-radius: 10px;
     --border-radius-sm: 8px;
 
@@ -67,11 +67,9 @@
 
 html, body {
     height: 100%;
-    margin-bottom: 5%;
 }
 
 body {
-    margin: 0;
     padding: var(--spacing-xl);
     color: var(--color-text);
     font: var(--font-size-base)/var(--line-height-base) var(--font-sans);
@@ -80,8 +78,9 @@ body {
 
 /* Document Container */
 .doc {
+    margin: 0 auto auto  auto;
+    padding-bottom: 50px;
     max-width: var(--content-max-width);
-    margin: 0 auto;
 }
 
 /* Header */
@@ -118,6 +117,7 @@ header {
 /* Metadata Panel */
 .meta {
     display: grid;
+    width: 100%;
     grid-template-columns: 1fr 1fr;
     gap: var(--spacing-sm) var(--spacing-md);
     padding: var(--spacing-md);
